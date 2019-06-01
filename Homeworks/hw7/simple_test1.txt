@@ -1,0 +1,4 @@
+load-connections /Users/sriyuthsagi/Dropbox/Data-Structures/Homeworks/hw7/hw7/simple_connection.txt
+load-locations /Users/sriyuthsagi/Dropbox/Data-Structures/Homeworks/hw7/hw7/simple_location.txt
+print-degrees
+print-degree-histogram

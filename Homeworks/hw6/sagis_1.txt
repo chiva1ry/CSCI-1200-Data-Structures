@@ -1,0 +1,10 @@
+board 4 5
+rows 4 0 2 1
+cols 1 2 1 2 1
+constraint 0 0 o
+constraint 0 2 <
+constraint 0 3 X
+constraint 0 4 >
+constraint 2 1 ^
+constraint 3 1 v
+constraint 2 3 o

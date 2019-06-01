@@ -1,0 +1,11 @@
+board 9 9
+rows 8 1 5 5 5 5 5 1 8
+cols 8 1 7 2 7 2 7 1 8
+tanker
+tanker
+tanker
+tanker
+carrier
+carrier
+carrier
+
